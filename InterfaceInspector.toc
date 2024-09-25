@@ -1,0 +1,13 @@
+## Interface: 110002
+## Title: InterfaceInspector
+## Notes: Addon which lets you to inspect interface frames.
+## Author: Tratatemium
+## Version: 0.0.1
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:
+# Libraries
+
+# Main Files
+main.lua
